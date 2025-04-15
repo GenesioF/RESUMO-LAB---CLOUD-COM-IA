@@ -1,4 +1,4 @@
-# RESUMO-LAB---CLOUD-COM-IA
+# RESUMO-LAB-CLOUD-COM-IA
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 Curso XP INC – CLOUD  COM INTELIGENCIA ARTIFICAL
 
